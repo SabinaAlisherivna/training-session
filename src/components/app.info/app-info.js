@@ -1,7 +1,7 @@
-
+import './app-info.css'
 const Appinfo = () => {
   return (
-    <div>
+    <div className='app-info'>
       Appinfo
 
     </div>
